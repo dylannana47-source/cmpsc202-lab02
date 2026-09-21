@@ -30,6 +30,8 @@ T(n) <= c n^2 for all n >= n0.
 
 So T(n) is O(n^2).
 
+This works because the quadratic term dominates the linear and constant terms once n is large enough.
+
 Rules used:
 - Polynomial growth: n <= n^2 for n >= 1
 - Constant terms are dominated by polynomial terms
