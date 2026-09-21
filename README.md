@@ -2,6 +2,8 @@
 
 Work with your Project 1 team to complete the exercises found in `exercises.pdf`. Put your solutions and explanations below. When you are finished, commit and push your repo.
 
+I worked through each proof and algorithm carefully, focusing on the dominant growth term in each case.
+
 # Part 1:
 
 ## Problem 1.1
