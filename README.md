@@ -117,4 +117,4 @@ The rule that feels least intuitive to me is the rule that exponential growth is
 
 I found the while-loop analysis in Algorithm B the most challenging because the exact number of iterations depends on repeated division by 2, which is closely related to logarithms.
 
-I think the exercises were helpful because they made the concepts more concrete. The examples in the problem statement were especially useful for understanding how repeated halving connects to log2(n).
+I think the exercises were helpful because they made the concepts more concrete. The examples in the problem statement were especially useful for understanding how repeated halving connects to log2(n), and they helped connect the theory to how algorithms actually behave as n grows.
