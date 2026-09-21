@@ -108,6 +108,8 @@ This matches log2(n) behavior. The exact count is approximately:
 
 T(n) = O(log n)
 
+The reason is that each pass halves the value, so the number of passes needed to reach 1 grows only with the base-2 logarithm of n.
+
 # Part 3:
 
 ## Reflection
